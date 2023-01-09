@@ -10,3 +10,6 @@ node_modules
 /api/index.js
 
 .idea
+/api/
+package-lock.json
+api/index.js.map
